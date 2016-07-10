@@ -8,4 +8,8 @@ The persistence will be a PostgreSQL database.
 The user interface will be responsive web using Javascript/CSS.
 
 This project is in the inception state and as such the tools agile tools to use will be the first point of business.
- 
+
+# LICENSE
+Code is licensed under a unlimited license. See the LICENSE file for details.
+
+
